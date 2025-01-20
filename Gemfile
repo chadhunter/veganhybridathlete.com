@@ -6,3 +6,4 @@ gem "rake", "~> 13.0.3"
 gem "slugify", "~> 1.0.7"
 gem "wdm", ">= 0.1.0"
 gem "webrick"
+gem 'ffi', '~> 1.15'
