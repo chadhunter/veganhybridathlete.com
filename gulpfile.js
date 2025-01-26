@@ -20,20 +20,19 @@ var swallowError = function swallowError(error) {
     this.emit('end');
 };
 
-var nodemonServerInit = function () {
+// Nodemon initialization with proper done callback
+var nodemonServerInit = function (done) {
     livereload.listen(1234);
+    done();  // Signal that the task is complete
 };
 
-gulp.task('build', ['css'], function (/* cb */) {
-    return nodemonServerInit();
-});
-
-gulp.task('css', function () {
+// CSS task
+function css() {
     var processors = [
         easyimport,
         customProperties,
         colorFunction(),
-        autoprefixer({browsers: ['last 2 versions']}),
+        autoprefixer(), // Removed browsers option, as autoprefixer will use the default config
         cssnano()
     ];
 
@@ -44,13 +43,15 @@ gulp.task('css', function () {
         .pipe(sourcemaps.write('.'))
         .pipe(gulp.dest('assets/built/'))
         .pipe(livereload());
-});
+}
 
-gulp.task('watch', function () {
-    gulp.watch('assets/css/**', ['css']);
-});
+// Watch task
+function watch() {
+    gulp.watch('assets/css/**', css);
+}
 
-gulp.task('zip', ['css'], function() {
+// Zip task
+function zipTask() {
     var targetDir = 'dist/';
     var themeName = require('./package.json').name;
     var filename = themeName + '.zip';
@@ -62,8 +63,18 @@ gulp.task('zip', ['css'], function() {
     ])
         .pipe(zip(filename))
         .pipe(gulp.dest(targetDir));
-});
+}
 
-gulp.task('default', ['build'], function () {
-    gulp.start('watch');
-});
+// Build task (runs CSS and then starts the server)
+function build(done) {
+    gulp.series(css, nodemonServerInit)(done); // Properly handle async task with done
+}
+
+// Default task (runs build and watch tasks)
+gulp.task('default', gulp.series(build, watch));
+
+// Export tasks to allow running them directly
+exports.css = css;
+exports.watch = watch;
+exports.zip = zipTask;
+exports.build = build;
