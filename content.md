@@ -20,6 +20,7 @@ Nutrition
 1. Basics: calories, macros, micros, then phytonutrients
 2. Nutrition for running
    1. g cards / kg body weight
+   2. pre/during/post
 3. Nutrition for hypertrophy
 4. Overview: where to get protein
    1. how much do you need?
@@ -54,3 +55,10 @@ Quick-starts:
 1. hypertrophy training (building muscle)
 2. marathon training
 3. eating vegan
+
+SEO Keywords: 
+- vegan athlete
+- vegan diet
+- vegan nutrition
+- runners diet
+- hybrid athlete
