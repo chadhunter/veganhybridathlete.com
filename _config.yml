@@ -9,17 +9,17 @@ words_per_minute: 200
 baseurl: /veganhybridathlete.com/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Vegan Hybrid Athlete
+description: Running, lifting, and plant-based performance
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: assets/images/logo-transparent-grey.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: tryghost # replace by your username
@@ -42,7 +42,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
 
 feed:
   path: feed.xml
