@@ -12,9 +12,9 @@ baseurl: /veganhybridathlete.com/
 title: Vegan Hybrid Athlete
 description: Running, lifting, and plant-based performance
 cover: assets/images/blog-cover.jpg
-logo: assets/images/logo-transparent-grey.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: assets/images/logos-transparent/2.svg  # 2 = white
+logo_dark: assets/images/logos-transparent/2.svg  # 2 = white
+favicon: assets/images/logos-transparent/6.svg  # 6 = yellow
 CNAME: #add cname for website to be created
 
 # Social info
@@ -22,15 +22,15 @@ navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+# twitter: tryghost # replace by your username
+# facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
 disqus_shortname: jekyllt # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: G-ZW3VXTCZME # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title

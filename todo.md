@@ -1,10 +1,10 @@
 MVP: 
-- update landing page image, logo (bigger, not grey), tagline?
+- X update landing page image, logo (bigger, not grey), tagline?
 - X update about page (basic)
-- update profile and landing image in data/authors.yml
-- update social media links and icons
-- update subscribe button (how does that work?) - if not keeping, remove from post pages
-- update footer
+- X update profile and landing image in data/authors.yml
+- X update social media links and icons
+- X update subscribe button (how does that work?) - if not keeping, remove from post pages
+- X update footer
 - remove // on base url
 - remove unecessary pages and content in site
 - create title, description, etc. 

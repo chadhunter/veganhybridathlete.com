@@ -14,3 +14,19 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+strength:
+  name: strength
+  description: Build muscle and keep it
+  cover: False
+running:
+  name: running
+  description: Run faster and farther, faster
+  cover: False
+nutrition:
+  name: nutrition
+  description: Plant-based eating to fuel performance
+  cover: False
+quick-starts:
+  name: quick-starts
+  description: The essentials for busy individuals
+  cover: False
