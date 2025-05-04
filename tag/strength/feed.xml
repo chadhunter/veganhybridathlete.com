@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="/veganhybridathlete.com/author/chad/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/veganhybridathlete.com/tag/strength/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/veganhybridathlete.com/" rel="alternate" type="text/html" />
   <updated>2025-05-04T00:29:53+00:00</updated>
-  <id>/veganhybridathlete.com/author/chad/feed.xml</id>
+  <id>/veganhybridathlete.com/tag/strength/feed.xml</id>
 
   
   
@@ -260,106 +260,6 @@ If you want to look more muscular, hypertrophy training should be your focus.&lt
 
       
         <summary type="html">Strength vs. Size — What’s the Difference (and Why It Matters)</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Welcome to Vegan Hybrid Athlete</title>
-      <link href="/veganhybridathlete.com/welcome" rel="alternate" type="text/html" title="Welcome to Vegan Hybrid Athlete" />
-      <published>2025-05-03T17:00:00+00:00</published>
-      <updated>2025-05-03T17:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/welcome</id>
-      <content type="html" xml:base="/veganhybridathlete.com/welcome">&lt;p&gt;&lt;strong&gt;Welcome to the Vegan Hybrid Athlete Blog&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Whether you’re trying to build muscle, run a marathon, or do both on a plant-based diet, welcome — you’re in the right place.&lt;/p&gt;
-
-&lt;p&gt;This blog is dedicated to helping vegan hybrid athletes thrive through evidence-based training and nutrition. Here, you’ll find clear, practical guidance on how to build strength, improve endurance, recover smarter, and eat to fuel performance — all rooted in science and experience, not hype or misinformation.&lt;/p&gt;
-
-&lt;p&gt;There’s a lot of confusion out there: that you can’t build muscle on a vegan diet, that running kills gains, or that you need to suffer through protein powders and bland meals to see results. I’m here to cut through that noise and offer a better way — one that’s grounded in research, adapted for real life, and designed to help you perform and feel your best.&lt;/p&gt;
-
-&lt;p&gt;Over time, I’ll be publishing articles on:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Strength Training:&lt;/strong&gt; From foundational training principles to targeted strategies for hypertrophy, fat loss, and improving functional strength.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Endurance Running:&lt;/strong&gt; Including base-building, race training (marathon and half), injury recovery, and how to blend running with lifting.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nutrition for Athletes:&lt;/strong&gt; Demystifying plant-based fueling, protein needs, timing, supplementation, and breaking down persistent myths about vegan diets.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Recovery:&lt;/strong&gt; What really supports recovery (hint: it’s not just foam rolling), and how to balance training intensity with rest.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Quick-Start Guides:&lt;/strong&gt; For those ready to dive into building muscle, running long, or going vegan — no fluff, just actionable steps.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Whether you’re a long-time vegan, plant-curious, or simply want to train smarter and eat better, this blog is for you.&lt;/p&gt;
-
-&lt;p&gt;Thanks for being here. Let’s get stronger, faster, and healthier — together.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Chad</name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html">Welcome to the Vegan Hybrid Athlete Blog</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Welcome to Ghost</title>
-      <link href="/veganhybridathlete.com/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
-      <published>2017-07-27T10:00:00+00:00</published>
-      <updated>2017-07-27T10:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/welcome</id>
-      <content type="html" xml:base="/veganhybridathlete.com/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
-
-&lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
-
-&lt;h3 id=&quot;there-are-a-few-things-that-you-should-know-up-front&quot;&gt;There are a few things that you should know up-front:&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for. If you’re using Ghost for some other purpose, that’s fine too - but it might not be the best choice for you.&lt;/li&gt;
-  &lt;li&gt;The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so &lt;strong&gt;does&lt;/strong&gt; require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.&lt;/li&gt;
-  &lt;li&gt;For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our &lt;a href=&quot;https://ghost.org/pricing&quot;&gt;Ghost(Pro)&lt;/a&gt; service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.&lt;/p&gt;
-
-&lt;p&gt;The main thing you’ll want to read about next is probably: &lt;a href=&quot;https://demo.ghost.io/the-editor/&quot;&gt;the Ghost editor&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once you’re done reading, you can simply delete the default &lt;strong&gt;Ghost&lt;/strong&gt; user from your team to remove all of these introductory posts!&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Chad</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Getting started" />
-      
-
-      
-        <summary type="html">Hey! Welcome to Ghost, it’s great to have you :)</summary>
       
 
       
