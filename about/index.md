@@ -15,7 +15,7 @@ read countless blogs around building muscle, losing fat, improving your cardiova
 endurance, and eating vegan (specifically, a whole-food plant-based diet) to fuel your 
 performance. 
 
-Two things suprised me throughout my journey: (1) how few concepts there are to achieve these 
+Two things surprised me throughout my journey: (1) how few concepts there are to achieve these 
 goals and (2) how much misinformation and confusion is out there. There are so many websites, 
 influencers (sales reps), and magazines (looking at you *Men's Health*) that seem to 
 purposely confuse you so that you never reach your goals and continue to rely on their
