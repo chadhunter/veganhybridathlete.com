@@ -48,4 +48,4 @@ Now that you understand the big-picture difference between strength and hypertro
 
 Next up: **Strength Training Basics** — the sets, reps, rest times, and techniques that build raw power.
 
-[Read Part 2 →](#)
+[Read Part 2 →](./2025-05-03-strength-training-basics.md)

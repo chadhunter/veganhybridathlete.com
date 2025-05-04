@@ -55,4 +55,4 @@ Strength training is about consistency, form, and load progression—not chasing
 
 Next up: we’ll explore hypertrophy training—how to build muscle size and structure your workouts to support growth.
 
-[Read Part 3 →](#)
+[Read Part 3 →](./2025-05-03-hypertrophy-training-basics.md)
