@@ -5,7 +5,7 @@ cover:  assets/images/new-zealand.jpg
 navigation: True
 title: Strength Training Basics — How to Train for Power
 date: 2025-05-03 19:00:00
-tags: 
+tags: [strength]
 class: post-template
 subclass: 'post'
 author: chad
@@ -55,4 +55,4 @@ Strength training is about consistency, form, and load progression—not chasing
 
 Next up: we’ll explore hypertrophy training—how to build muscle size and structure your workouts to support growth.
 
-[Read Part 3 →](./2025-05-03-hypertrophy-training-basics.md)
+[Read Part 3 →](./hypertrophy-training-basics)

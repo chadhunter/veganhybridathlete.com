@@ -5,7 +5,7 @@ cover:  assets/images/new-zealand.jpg
 navigation: True
 title: Strength vs. Size — What’s the Difference (and Why It Matters)
 date: 2025-05-03 17:00:00
-tags: 
+tags: [strength]
 class: post-template
 subclass: 'post'
 author: chad
@@ -48,4 +48,4 @@ Now that you understand the big-picture difference between strength and hypertro
 
 Next up: **Strength Training Basics** — the sets, reps, rest times, and techniques that build raw power.
 
-[Read Part 2 →](./2025-05-03-strength-training-basics.md)
+[Read Part 2 →](./strength-training-basics)
