@@ -16,7 +16,7 @@ author: chad
 If your goal is to increase your one-rep max, build denser muscles, or just feel 
 powerful in your movements, you’re in the right place.
 
-In this post, we’ll cover the fundamentals of strength training: how to structure your
+In this post, we’ll cover the basics of strength training: how to structure your
 workouts for maximum strength without gaining much size, what rep ranges to use, 
 how much rest to take, and which exercises give you the most bang for your buck.
 

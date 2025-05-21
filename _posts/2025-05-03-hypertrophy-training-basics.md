@@ -25,7 +25,7 @@ the impact on your joints, but extra strength and muscle can reduce the rate of 
 endurance training. The ideal hybrid athlete workout plan balances muscle development, 
 strength, and endurance training.
 
-If you're looking to build muscle, here’s how to structure your training to maximize growth.
+Here are the basics to build muscle without all the confusion and marketing.
 
 ---
 
