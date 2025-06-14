@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/new-zealand.jpg
+cover:  assets/images/tag-quick-starts-cover.jpg
 navigation: True
 title: Coming Soon - Action Plans to Get You Started Faster
 date: 2025-05-21 06:00:00

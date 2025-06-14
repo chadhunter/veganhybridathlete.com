@@ -5,16 +5,16 @@ strength:
 running:
   name: running
   description: Run faster and farther, faster
-  cover: assets/images/tag-running-cover.jpg
+  cover: False
 nutrition:
   name: nutrition
   description: Plant-based eating to fuel performance
-  cover: assets/images/tag-nutrition-cover.jpg
+  cover: False
 quick-starts:
   name: quick-starts
   description: The essentials for busy individuals
-  cover: assets/images/tag-quick-starts-cover.jpg
+  cover: False
 recovery:
   name: recovery
   description: Recovering for performance
-  cover: assets/images/tag-recovery-cover.jpg
+  cover: False

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/new-zealand.jpg
+cover:  assets/images/tag-recovery-cover.jpg
 navigation: True
 title: Coming Soon - Recovery to Maximize Performance
 date: 2025-05-21 06:00:00

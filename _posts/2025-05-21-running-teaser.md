@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/new-zealand.jpg
+cover:  assets/images/tag-running-cover.jpg
 navigation: True
 title: Coming Soon - Running Faster and Farther, Faster
 date: 2025-05-21 06:00:00
