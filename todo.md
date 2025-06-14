@@ -1,6 +1,5 @@
 MVP: 
 - remove // on base url
-- update _config file with website info
 - make logo on landing page bigger
 - publish site
 
