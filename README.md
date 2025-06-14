@@ -29,7 +29,8 @@ Jasper2 styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'
 $ npm run gulp
 ```
 
-Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
+Now you can edit `/assets/css/` files which will be compiled to `/assets/built/` automatically.
+To update fonts, change both the `global.css` and `screen.css` files.
 
 ## Copyright & License
 
