@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/new-zealand.jpg
+cover:  assets/images/strength-size.jpg
 navigation: True
 title: Hypertrophy Training Basics — How to Train for Size
 date: 2025-05-03 18:00:00

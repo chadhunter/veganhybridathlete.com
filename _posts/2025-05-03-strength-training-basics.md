@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/new-zealand.jpg
+cover:  assets/images/strength-strength.jpg
 navigation: True
 title: Strength Training Basics — How to Train for Strength Not Size
 date: 2025-05-03 19:00:00

@@ -11,10 +11,10 @@ baseurl: /veganhybridathlete.com/
 # Website info
 title: Vegan Hybrid Athlete
 description: Running, lifting, and plant-based performance
-cover: assets/images/blog-cover.jpg
-logo: assets/images/logos-transparent/2.svg  # 2 = white
-logo_dark: assets/images/logos-transparent/2.svg  # 2 = white
-favicon: assets/images/logos-transparent/6.svg  # 6 = yellow
+cover: assets/images/splash-running-under.jpg
+logo: assets/images/logo/vha-logo.png  # 2 = white
+logo_dark: assets/images/logo/vha-logo.png  # 2 = white
+favicon: assets/images/logo/vha-logo.png  # 6 = yellow
 CNAME: #add cname for website to be created
 
 # Social info

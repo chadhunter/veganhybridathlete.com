@@ -1,20 +1,20 @@
 strength:
   name: strength
   description: Build muscle and keep it
-  cover: False
+  cover: assets/images/tag-strength-cover.jpg
 running:
   name: running
   description: Run faster and farther, faster
-  cover: False
+  cover: assets/images/tag-running-cover.jpg
 nutrition:
   name: nutrition
   description: Plant-based eating to fuel performance
-  cover: False
+  cover: assets/images/tag-nutrition-cover.jpg
 quick-starts:
   name: quick-starts
   description: The essentials for busy individuals
-  cover: False
+  cover: assets/images/tag-quick-starts-cover.jpg
 recovery:
   name: recovery
   description: Recovering for performance
-  cover: False
+  cover: assets/images/tag-recovery-cover.jpg

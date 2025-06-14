@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/new-zealand.jpg
+cover:  assets/images/strength-size-v-strength.jpg
 navigation: True
 title: Strength vs. Size — What’s the Difference (and Why It Matters)
 date: 2025-05-03 17:00:00
