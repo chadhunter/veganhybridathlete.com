@@ -9,7 +9,7 @@ MVP:
 - X add landing page image to pack of blogs
 - X remove unnecessary pages and content in site
 - remove // on base url
-- update pictures for MVP blogs
+- update pictures for MVP blogs (add Unsplash disclaimer in footer for now?)
 - update hero image
 - create title, description, etc. 
 - update _config file with website info
