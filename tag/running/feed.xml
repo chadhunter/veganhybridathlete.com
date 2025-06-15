@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="/veganhybridathlete.com/tag/running/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/veganhybridathlete.com/" rel="alternate" type="text/html" />
-  <updated>2025-06-15T19:49:21+00:00</updated>
-  <id>/veganhybridathlete.com/tag/running/feed.xml</id>
+  <link href="/tag/running/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2025-06-15T19:56:27+00:00</updated>
+  <id>/tag/running/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Coming Soon - Running Faster and Farther, Faster</title>
-      <link href="/veganhybridathlete.com/running-teaser" rel="alternate" type="text/html" title="Coming Soon - Running Faster and Farther, Faster" />
+      <link href="/running-teaser" rel="alternate" type="text/html" title="Coming Soon - Running Faster and Farther, Faster" />
       <published>2025-05-21T06:00:00+00:00</published>
       <updated>2025-05-21T06:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/running-teaser</id>
-      <content type="html" xml:base="/veganhybridathlete.com/running-teaser">&lt;h1 id=&quot;coming-soon---running-faster-and-farther-faster&quot;&gt;Coming Soon - Running Faster and Farther, Faster&lt;/h1&gt;
+      <id>/running-teaser</id>
+      <content type="html" xml:base="/running-teaser">&lt;h1 id=&quot;coming-soon---running-faster-and-farther-faster&quot;&gt;Coming Soon - Running Faster and Farther, Faster&lt;/h1&gt;
 
 &lt;p&gt;In future posts, I’ll be covering science-based and evidence-based running training 
 including:&lt;/p&gt;

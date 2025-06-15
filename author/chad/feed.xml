@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="/veganhybridathlete.com/author/chad/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/veganhybridathlete.com/" rel="alternate" type="text/html" />
-  <updated>2025-06-15T19:49:21+00:00</updated>
-  <id>/veganhybridathlete.com/author/chad/feed.xml</id>
+  <link href="/author/chad/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2025-06-15T19:56:27+00:00</updated>
+  <id>/author/chad/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Coming Soon - Vegan Hybrid Athlete Nutrition</title>
-      <link href="/veganhybridathlete.com/nutrition-teaser" rel="alternate" type="text/html" title="Coming Soon - Vegan Hybrid Athlete Nutrition" />
+      <link href="/nutrition-teaser" rel="alternate" type="text/html" title="Coming Soon - Vegan Hybrid Athlete Nutrition" />
       <published>2025-05-21T06:00:00+00:00</published>
       <updated>2025-05-21T06:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/nutrition-teaser</id>
-      <content type="html" xml:base="/veganhybridathlete.com/nutrition-teaser">&lt;h1 id=&quot;coming-soon---vegan-hybrid-athlete-nutrition&quot;&gt;Coming Soon - Vegan Hybrid Athlete Nutrition&lt;/h1&gt;
+      <id>/nutrition-teaser</id>
+      <content type="html" xml:base="/nutrition-teaser">&lt;h1 id=&quot;coming-soon---vegan-hybrid-athlete-nutrition&quot;&gt;Coming Soon - Vegan Hybrid Athlete Nutrition&lt;/h1&gt;
 
 &lt;p&gt;In future posts, I’ll cover how to eat vegan in a way to build muscle and run faster including:&lt;/p&gt;
 &lt;ul&gt;
@@ -80,11 +80,11 @@
   
     <entry>
       <title type="html">Coming Soon - Action Plans to Get You Started Faster</title>
-      <link href="/veganhybridathlete.com/quick-starts-teaser" rel="alternate" type="text/html" title="Coming Soon - Action Plans to Get You Started Faster" />
+      <link href="/quick-starts-teaser" rel="alternate" type="text/html" title="Coming Soon - Action Plans to Get You Started Faster" />
       <published>2025-05-21T06:00:00+00:00</published>
       <updated>2025-05-21T06:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/quick-starts-teaser</id>
-      <content type="html" xml:base="/veganhybridathlete.com/quick-starts-teaser">&lt;h1 id=&quot;coming-soon---action-plans-to-get-you-started-faster&quot;&gt;Coming Soon - Action Plans to Get You Started Faster&lt;/h1&gt;
+      <id>/quick-starts-teaser</id>
+      <content type="html" xml:base="/quick-starts-teaser">&lt;h1 id=&quot;coming-soon---action-plans-to-get-you-started-faster&quot;&gt;Coming Soon - Action Plans to Get You Started Faster&lt;/h1&gt;
 
 &lt;p&gt;In future posts, I’ll outline quick guides that will help you start training as a 
 vegan hybrid athlete including:&lt;/p&gt;
@@ -124,11 +124,11 @@ vegan hybrid athlete including:&lt;/p&gt;
   
     <entry>
       <title type="html">Coming Soon - Recovery to Maximize Performance</title>
-      <link href="/veganhybridathlete.com/recovery-teaser" rel="alternate" type="text/html" title="Coming Soon - Recovery to Maximize Performance" />
+      <link href="/recovery-teaser" rel="alternate" type="text/html" title="Coming Soon - Recovery to Maximize Performance" />
       <published>2025-05-21T06:00:00+00:00</published>
       <updated>2025-05-21T06:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/recovery-teaser</id>
-      <content type="html" xml:base="/veganhybridathlete.com/recovery-teaser">&lt;h1 id=&quot;coming-soon---recovery-to-maximize-performance&quot;&gt;Coming Soon - Recovery to Maximize Performance&lt;/h1&gt;
+      <id>/recovery-teaser</id>
+      <content type="html" xml:base="/recovery-teaser">&lt;h1 id=&quot;coming-soon---recovery-to-maximize-performance&quot;&gt;Coming Soon - Recovery to Maximize Performance&lt;/h1&gt;
 
 &lt;p&gt;In future posts, I’ll cover strategies to improve recovery so you can feel better, 
 train more, and improve faster, including:&lt;/p&gt;
@@ -170,11 +170,11 @@ train more, and improve faster, including:&lt;/p&gt;
   
     <entry>
       <title type="html">Coming Soon - Running Faster and Farther, Faster</title>
-      <link href="/veganhybridathlete.com/running-teaser" rel="alternate" type="text/html" title="Coming Soon - Running Faster and Farther, Faster" />
+      <link href="/running-teaser" rel="alternate" type="text/html" title="Coming Soon - Running Faster and Farther, Faster" />
       <published>2025-05-21T06:00:00+00:00</published>
       <updated>2025-05-21T06:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/running-teaser</id>
-      <content type="html" xml:base="/veganhybridathlete.com/running-teaser">&lt;h1 id=&quot;coming-soon---running-faster-and-farther-faster&quot;&gt;Coming Soon - Running Faster and Farther, Faster&lt;/h1&gt;
+      <id>/running-teaser</id>
+      <content type="html" xml:base="/running-teaser">&lt;h1 id=&quot;coming-soon---running-faster-and-farther-faster&quot;&gt;Coming Soon - Running Faster and Farther, Faster&lt;/h1&gt;
 
 &lt;p&gt;In future posts, I’ll be covering science-based and evidence-based running training 
 including:&lt;/p&gt;
@@ -217,11 +217,11 @@ training, anaerobic training, and strength training to compliment running)&lt;/l
   
     <entry>
       <title type="html">Strength Training Basics — How to Train for Strength Not Size</title>
-      <link href="/veganhybridathlete.com/strength-training-basics" rel="alternate" type="text/html" title="Strength Training Basics — How to Train for Strength Not Size" />
+      <link href="/strength-training-basics" rel="alternate" type="text/html" title="Strength Training Basics — How to Train for Strength Not Size" />
       <published>2025-05-03T19:00:00+00:00</published>
       <updated>2025-05-03T19:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/strength-training-basics</id>
-      <content type="html" xml:base="/veganhybridathlete.com/strength-training-basics">&lt;h1 id=&quot;strength-training-basics--how-to-train-for-power&quot;&gt;Strength Training Basics — How to Train for Power&lt;/h1&gt;
+      <id>/strength-training-basics</id>
+      <content type="html" xml:base="/strength-training-basics">&lt;h1 id=&quot;strength-training-basics--how-to-train-for-power&quot;&gt;Strength Training Basics — How to Train for Power&lt;/h1&gt;
 
 &lt;p&gt;If your goal is to increase your one-rep max, build denser muscles, or just feel 
 powerful in your movements, you’re in the right place.&lt;/p&gt;
@@ -336,11 +336,11 @@ professional athletes in addition to researching the latest in sports science.&l
   
     <entry>
       <title type="html">Hypertrophy Training Basics — How to Train for Size</title>
-      <link href="/veganhybridathlete.com/hypertrophy-training-basics" rel="alternate" type="text/html" title="Hypertrophy Training Basics — How to Train for Size" />
+      <link href="/hypertrophy-training-basics" rel="alternate" type="text/html" title="Hypertrophy Training Basics — How to Train for Size" />
       <published>2025-05-03T18:00:00+00:00</published>
       <updated>2025-05-03T18:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/hypertrophy-training-basics</id>
-      <content type="html" xml:base="/veganhybridathlete.com/hypertrophy-training-basics">&lt;h1 id=&quot;hypertrophy-training-basics--how-to-train-for-size&quot;&gt;Hypertrophy Training Basics — How to Train for Size&lt;/h1&gt;
+      <id>/hypertrophy-training-basics</id>
+      <content type="html" xml:base="/hypertrophy-training-basics">&lt;h1 id=&quot;hypertrophy-training-basics--how-to-train-for-size&quot;&gt;Hypertrophy Training Basics — How to Train for Size&lt;/h1&gt;
 
 &lt;p&gt;Want to build bigger muscles? Then hypertrophy training is your go-to.&lt;/p&gt;
 
@@ -464,11 +464,11 @@ professional athletes in addition to researching the latest in sports science.&l
   
     <entry>
       <title type="html">Strength vs. Size — What’s the Difference (and Why It Matters)</title>
-      <link href="/veganhybridathlete.com/strength-vs-size" rel="alternate" type="text/html" title="Strength vs. Size — What’s the Difference (and Why It Matters)" />
+      <link href="/strength-vs-size" rel="alternate" type="text/html" title="Strength vs. Size — What’s the Difference (and Why It Matters)" />
       <published>2025-05-03T17:00:00+00:00</published>
       <updated>2025-05-03T17:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/strength-vs-size</id>
-      <content type="html" xml:base="/veganhybridathlete.com/strength-vs-size">&lt;h1 id=&quot;strength-vs-size--whats-the-difference-and-why-it-matters&quot;&gt;Strength vs. Size — What’s the Difference (and Why It Matters)&lt;/h1&gt;
+      <id>/strength-vs-size</id>
+      <content type="html" xml:base="/strength-vs-size">&lt;h1 id=&quot;strength-vs-size--whats-the-difference-and-why-it-matters&quot;&gt;Strength vs. Size — What’s the Difference (and Why It Matters)&lt;/h1&gt;
 
 &lt;p&gt;Whether you’re new to lifting or returning with fresh goals, one of the first questions
 to ask is: &lt;em&gt;Are you training for strength, or training for size?&lt;/em&gt; The distinction might
@@ -551,11 +551,11 @@ build considerable strength without getting too big and heavy.&lt;/p&gt;
   
     <entry>
       <title type="html">Welcome to Vegan Hybrid Athlete</title>
-      <link href="/veganhybridathlete.com/welcome" rel="alternate" type="text/html" title="Welcome to Vegan Hybrid Athlete" />
+      <link href="/welcome" rel="alternate" type="text/html" title="Welcome to Vegan Hybrid Athlete" />
       <published>2025-05-03T17:00:00+00:00</published>
       <updated>2025-05-03T17:00:00+00:00</updated>
-      <id>/veganhybridathlete.com/welcome</id>
-      <content type="html" xml:base="/veganhybridathlete.com/welcome">&lt;p&gt;&lt;strong&gt;Welcome to the Vegan Hybrid Athlete Blog&lt;/strong&gt;&lt;/p&gt;
+      <id>/welcome</id>
+      <content type="html" xml:base="/welcome">&lt;p&gt;&lt;strong&gt;Welcome to the Vegan Hybrid Athlete Blog&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Whether you’re trying to build muscle, run a marathon, or do both on a plant-based diet, welcome — you’re in the right place.&lt;/p&gt;
 
