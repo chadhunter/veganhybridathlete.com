@@ -5,7 +5,7 @@ title: About
 navigation: true
 logo: 'assets/images/logo.png'
 class: page-template
-subclass: 'post page'
+subclass: 'page'
 ---
 
 Hi, I'm Chad, a vegan hybrid athlete. I've been lifting, running, playing soccer, 
